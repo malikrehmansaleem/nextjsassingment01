@@ -1,0 +1,12 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+header {
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957);
+    height: 650px;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
